@@ -7,4 +7,4 @@ There is a grid inside the light fitting to hold the flowers. I designed this us
 
 dxfs for all the laser cut files are here: https://github.com/JackiePease/PlasticFlowers/tree/main/laser-cutting-files
 
-The lights will be run from a MCQN Ltd ["My Babys Got LED" board] (https://github.com/mcqn/my-babys-got-led) using a 30A PC power supply
+The lights will be run from a MCQN Ltd "My Babys Got LED" board (https://github.com/mcqn/my-babys-got-led) using a 30A PC power supply
